@@ -162,6 +162,7 @@
 							<goal>copy</goal>
 						</goals>
 						<configuration>
+									 <encoding>UTF-8</encoding>
 							<artifactItems>
 								<artifactItem>
 									<groupId>org.eclipse.jetty</groupId>
